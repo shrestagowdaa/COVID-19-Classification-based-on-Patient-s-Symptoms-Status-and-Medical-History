@@ -1,1 +1,6 @@
 # COVID-19-Classification-based-on-Patient-s-Symptoms-Status-and-Medical-History
+This research paper presents an analysis of a COVID-19 dataset comprising information on patients' symptoms, status, and medical history, we explored the COVID-19 dataset containing anonymized patient-related information, including symptoms, patient status, and medical history. Various machine learning algorithms, including Support Vector Machines (SVM), Decision Trees, Gradient Boosting, Logistic Regression, and Random Forest were applied to predict the patient's status. Overall, the results showed that the Decision Tree algorithm achieved the highest accuracy and predictive power for classifying the patient's status. It outperformed the other algorithms, including SVM, Random Forest , Gradient Boosting, and Logistic Regression.
+
+![Screenshot 2024-01-16 102736](https://github.com/shrestagowdaa/COVID-19-Classification-based-on-Patient-s-Symptoms-Status-and-Medical-History/assets/156737203/032ee646-f024-4686-ad6f-afaff009e937)
+![Screenshot 2024-01-16 102756](https://github.com/shrestagowdaa/COVID-19-Classification-based-on-Patient-s-Symptoms-Status-and-Medical-History/assets/156737203/da25433a-351b-4b18-aaa7-070dcaa1014c)
+
